@@ -28,7 +28,7 @@ Karena cost dari FN jauh lebih tinggi dibanding FP, karena itu F2-score dipilih 
 - Tipe datanya 9 bertipe Kategorikal dan 2 bertipe Numerikal.
 Perbandingan pelanggan yang Churn dan yang tidak Churn adalah 1288 : 3565
 
-## Machine Learning Learning
+## Machine Learning Modeling
 - Define X and y
 - Data Splitting
 - Data Preprocessing
